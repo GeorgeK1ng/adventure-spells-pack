@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/darkness"
-	]
+	],
+	"czech" : {
+		"name" : "Temnota",
+		"description" : "Temnota"
+	}
 }

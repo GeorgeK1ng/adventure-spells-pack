@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/raiseDemons"
-	]
+	],
+	"czech" : {
+		"name" : "Oživení démonů",
+		"description" : "Oživení démonů"
+	}
 }

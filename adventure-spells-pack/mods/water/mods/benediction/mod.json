@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/benediction"
-	]
+	],
+	"czech" : {
+		"name" : "Požehnání magie",
+		"description" : "Požehnání magie"
+	}
 }

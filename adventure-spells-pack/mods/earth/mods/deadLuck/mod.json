@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/deadLuck"
-	]
+	],
+	"czech" : {
+		"name" : "Mrtvé štěstí",
+		"description" : "Mrtvé štěstí"
+	}
 }

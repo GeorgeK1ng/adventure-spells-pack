@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/fleetFoot"
-	]
+	],
+	"czech" : {
+		"name" : "Rychlé nohy",
+		"description" : "Rychlé nohy"
+	}
 }

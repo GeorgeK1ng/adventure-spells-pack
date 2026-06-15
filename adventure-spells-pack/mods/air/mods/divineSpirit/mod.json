@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/divineSpirit"
-	]
+	],
+	"czech" : {
+		"name" : "Božský duch",
+		"description" : "Božský duch"
+	}
 }

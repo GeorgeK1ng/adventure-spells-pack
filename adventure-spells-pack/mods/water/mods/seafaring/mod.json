@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/seafaring"
-	]
+	],
+	"czech" : {
+		"name" : "Mořeplavec",
+		"description" : "Mořeplavec"
+	}
 }

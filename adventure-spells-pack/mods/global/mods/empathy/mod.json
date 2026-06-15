@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/empathy"
-	]
+	],
+	"czech" : {
+		"name" : "Empatie",
+		"description" : "Empatie"
+	}
 }

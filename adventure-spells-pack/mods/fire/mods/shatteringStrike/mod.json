@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/shatteringStrike"
-	]
+	],
+	"czech" : {
+		"name" : "Drtivý úder",
+		"description" : "Drtivý úder"
+	}
 }

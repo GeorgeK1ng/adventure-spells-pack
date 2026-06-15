@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/griffinEye"
-	]
+	],
+	"czech" : {
+		"name" : "Gryfí oko",
+		"description" : "Gryfí oko"
+	}
 }

@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/deathCall"
-	]
+	],
+	"czech" : {
+		"name" : "Volání smrti",
+		"description" : "Volání smrti"
+	}
 }

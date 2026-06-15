@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/dwarvenLuck"
-	]
+	],
+	"czech" : {
+		"name" : "Trpasličí štěstí",
+		"description" : "Trpasličí štěstí"
+	}
 }

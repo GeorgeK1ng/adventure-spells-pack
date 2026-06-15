@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/clarity"
-	]
+	],
+	"czech" : {
+		"name" : "Jasnost",
+		"description" : "Jasnost"
+	}
 }

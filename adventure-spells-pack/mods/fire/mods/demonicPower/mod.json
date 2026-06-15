@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/demonicPower"
-	]
+	],
+	"czech" : {
+		"name" : "Démonická síla",
+		"description" : "Démonická síla"
+	}
 }

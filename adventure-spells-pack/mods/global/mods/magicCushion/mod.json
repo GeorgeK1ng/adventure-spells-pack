@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/magicCushion"
-	]
+	],
+	"czech" : {
+		"name" : "Magická odolnost",
+		"description" : "Magická odolnost"
+	}
 }

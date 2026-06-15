@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/holdGround"
-	]
+	],
+	"czech" : {
+		"name" : "Držení pozice",
+		"description" : "Držení pozice"
+	}
 }

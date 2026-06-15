@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/powerOfHaste"
-	]
+	],
+	"czech" : {
+		"name" : "Moc spěchu",
+		"description" : "Moc spěchu"
+	}
 }

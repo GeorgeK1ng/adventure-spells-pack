@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/arcaneProtection"
-	]
+	],
+	"czech" : {
+		"name" : "Ochrana před magií",
+		"description" : "Ochrana před magií"
+	}
 }

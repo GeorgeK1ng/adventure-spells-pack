@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/accuracy"
-	]
+	],
+	"czech" : {
+		"name" : "Přesnost",
+		"description" : "Přesnost"
+	}
 }

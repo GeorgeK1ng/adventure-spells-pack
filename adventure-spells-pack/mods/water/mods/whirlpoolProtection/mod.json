@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/whirlpoolProtection"
-	]
+	],
+	"czech" : {
+		"name" : "Ochrana proti vírům",
+		"description" : "Ochrana proti vírům"
+	}
 }

@@ -14,5 +14,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"config/spells/powerOfStone"
-	]
+	],
+	"czech" : {
+		"name" : "Moc kamene",
+		"description" : "Moc kamene"
+	}
 }
