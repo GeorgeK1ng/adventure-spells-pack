@@ -1,6 +1,6 @@
 {
 	"name" : "Channel Power",
-	"description" : "Channel Power",
+	"description" : "Gain +5% spell damage until the end of the day.",
 	"author" : "Heroes III Modding Community, Aphra, SpiritOfRebellion",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
@@ -17,6 +17,6 @@
 	],
 	"czech" : {
 		"name" : "Proud síly",
-		"description" : "Proud síly"
+		"description" : "Získáváte +5% poškození z kouzel až do konce dne."
 	}
 }

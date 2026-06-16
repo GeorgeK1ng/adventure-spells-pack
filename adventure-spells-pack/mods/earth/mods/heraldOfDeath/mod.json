@@ -1,6 +1,6 @@
 {
 	"name" : "Herald of Death",
-	"description" : "Herald of Death",
+	"description" : "Reduces maximum Morale in combat to +2 until the end of the day.",
 	"author" : "Heroes III Modding Community, Aphra, SpiritOfRebellion",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
@@ -17,6 +17,6 @@
 	],
 	"czech" : {
 		"name" : "Posel smrti",
-		"description" : "Posel smrti"
+		"description" : "Snižuje maximální morálku v boji na +2 až do konce dne."
 	}
 }

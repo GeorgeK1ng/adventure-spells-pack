@@ -1,6 +1,6 @@
 {
 	"name" : "Seafaring",
-	"description" : "Seafaring",
+	"description" : "Removes the boarding and unboarding penalties of ships until the end of the day.",
 	"author" : "Heroes III Modding Community, Aphra, SpiritOfRebellion",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
@@ -17,6 +17,6 @@
 	],
 	"czech" : {
 		"name" : "Mořeplavec",
-		"description" : "Mořeplavec"
+		"description" : "Odstraňuje penalizaci při nalodění a vylodění až do konce dne."
 	}
 }

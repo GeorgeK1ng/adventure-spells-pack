@@ -1,6 +1,6 @@
 {
 	"name" : "Dead Luck",
-	"description" : "Dead Luck",
+	"description" : "Reduces maximum Luck in combat to +2 until the end of the day.",
 	"author" : "Heroes III Modding Community, Aphra, SpiritOfRebellion",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
@@ -17,6 +17,6 @@
 	],
 	"czech" : {
 		"name" : "Mrtvé štěstí",
-		"description" : "Mrtvé štěstí"
+		"description" : "Snižuje maximální štěstí v boji na +2 až do konce dne."
 	}
 }
